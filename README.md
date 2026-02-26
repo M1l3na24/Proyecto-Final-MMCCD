@@ -1,7 +1,10 @@
 # Proyecto-Final-MMCCD
-Proyecto final para la asignatura de Métodos Matemáticos
+Final project for the subject of Mathematical Methods
 
-Equipo:
+Project that applied PCA (own implementation in python) to a synthetic dataset that included features influential on the academic performance of students with the aim of predicting it and determining the most significant variables and making predictions of future evaluations with the Vandermonde extrapolation method.
+
+
+Team:
 
 PÉREZ MARTÍNEZ ÁNGEL NOEL
 
